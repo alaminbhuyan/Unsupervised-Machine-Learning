@@ -1,3 +1,5 @@
+## Types of Clustering Algorithms
+
 In machine learning, clustering is a type of unsupervised learning where the goal is to group similar data points together based on certain features or characteristics. Clustering algorithms aim to discover hidden patterns or structures within the data without any predefined labels.
 
 There are several types of clustering algorithms, each with its own approach and characteristics. Some common types of clustering algorithms include:
